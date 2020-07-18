@@ -1,2 +1,2 @@
 # Processing
-Processing 3D simulations using [Processing Tool](https://processing.org)
+Processing 3D simulations using [Tool](https://processing.org)
